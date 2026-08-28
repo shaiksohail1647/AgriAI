@@ -1,0 +1,10 @@
+[
+  {
+    "id": "6f556cae-8fb0-4585-9ac2-97d8a50360fe",
+    "name": "Sri Ram Sagar",
+    "email": "sriramsagarrentapalli@gmail.com",
+    "passwordSalt": "73dc391114a07a5bccd018b077a8e37f",
+    "passwordHash": "7351480c75dfdd3313a45f30e799269e6548ee691146835be20df686f5ec13607f270b421b3fe63cb2ec2c426b9cf1c2f69fd28f5fee1c03bd913a63bb0b6842",
+    "createdAt": "2026-08-26T08:11:53.089Z"
+  }
+]
